@@ -1,0 +1,30 @@
+.login{
+    border: 1px solid #B0BEC5;
+    width: 30%;
+    height: 350px;
+    margin-left: 30%;
+    margin-top: 5%;
+}
+.h1{
+    text-align: center;
+}
+label{
+    margin-left: 25%;
+}
+
+.email2{
+    margin-left: 14.5%;
+}
+.password2{
+    margin-left: 9%;
+}
+.button12{
+    margin-top: 20%;
+    margin-left: -38%;
+}
+.loginp1{
+    margin-left: 25%;
+}
+.signup{
+    margin-left: 48%;
+}
